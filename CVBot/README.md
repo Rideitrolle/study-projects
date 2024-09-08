@@ -11,6 +11,6 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Rideitrolle/CVBot.git
+   git clone https://github.com/Rideitrolle/study-projects.git
 2. Воспользуйтесь скриптом
    scripts/CVBot_run.sh
